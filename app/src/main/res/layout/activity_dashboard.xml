@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dreamyleague.prosoccer.activities.DashboardActivity"
+    android:background="@drawable/logo_bg">
+
+
+    <ImageView
+        android:layout_width="305dp"
+        android:layout_height="68dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="449dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="5dp"
+        android:src="@drawable/logo_text" />
+
+    <ImageView
+        android:id="@+id/btnPLay"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="100dp"
+        android:src="@drawable/playbtn" />
+
+    <LinearLayout
+        android:id="@+id/bannerAds_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="gone" />
+
+</RelativeLayout>

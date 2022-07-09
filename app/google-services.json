@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216330622127",
+    "project_id": "dreamy-star-league-socce-46b44",
+    "storage_bucket": "dreamy-star-league-socce-46b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216330622127:android:0c9a0f49cfdf62bc23705a",
+        "android_client_info": {
+          "package_name": "com.dreamyleague.prosoccer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216330622127-ul2tbqcn154m4i7q7uh3r6tl98bjg3es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-W-oqhIx1h2gT0FbHPee2re40lMA-Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216330622127-ul2tbqcn154m4i7q7uh3r6tl98bjg3es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
